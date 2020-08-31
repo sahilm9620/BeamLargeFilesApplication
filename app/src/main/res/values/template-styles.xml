@@ -20,7 +20,7 @@
 
     <style name="Theme.Base" parent="android:Theme.Holo.Light" />
 
-    <style name="AppTheme" parent="Theme.Base" />
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar" />
     <!-- Widget styling -->
 
     <style name="Widget" />
